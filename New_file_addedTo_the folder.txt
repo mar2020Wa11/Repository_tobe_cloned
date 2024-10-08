@@ -1,2 +1,7 @@
 After cloning repository in local location
 we need uploading new files_to GitHub repository 
+
+
+
+
+now typing new commits
